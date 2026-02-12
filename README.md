@@ -50,7 +50,8 @@ pip install -r requirements.txt
 Run the game:
 
 ```bash
-python src/main.py
+cd src
+python main.py
 ```
 
 ---
